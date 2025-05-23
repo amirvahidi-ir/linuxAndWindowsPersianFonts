@@ -47,64 +47,6 @@ mkdir  myfonts
 find . -type f -name "*.ttf" -exec mv -v {} myfonts/ \;
 
 
+ [Amir Vahidi](https://github.com/amirvahidi-ir).
 
-
-# Persian Fonts for Linux and Windows
-
-This repository contains a collection of Persian fonts for both Linux and Windows systems.
-
----
-
-## 📦 Contents
-
-- A variety of Persian fonts, categorized and compressed in split zip files.
-- Compatible with both Linux and Windows platforms.
-
----
-
-## 📥 How to Clone and Download the Fonts
-
-> ⚠️ This repository uses **Git Large File Storage (Git LFS)** to handle large binary files (e.g., `.zip.001`, `.zip.002`, ...). If you want to access the full font packages, follow the instructions below.
-
-### ✅ Step 1: Install Git LFS
-
-**Ubuntu/Debian:**
-```bash
-sudo apt update
-sudo apt install git-lfs
-git lfs install
-```
-
-**Windows/macOS:**
-
-- Download and install Git LFS from: [https://git-lfs.github.com/](https://git-lfs.github.com/)
-
----
-
-### ✅ Step 2: Clone the Repository
-
-Use the following command to properly clone the repository and download all large files:
-
-```bash
-git clone https://github.com/amirvahidi-ir/linuxAndWindowsPersianFonts.git
-```
-
-> This command ensures that Git LFS downloads all necessary font files.
-
----
-
-### ⚠️ Do NOT use the "Download ZIP" button
-
-Downloading this repository as a ZIP file from GitHub will **not** include the actual font files, only small pointer files. Use `git clone` with Git LFS to get the full content.
-
----
-
-## 🙏 Acknowledgments
-
-Fonts provided from various sources, optimized and organized by [Amir Vahidi](https://github.com/amirvahidi-ir).
-
-
-
-Please join and add more fonts specially Persian fonts. It would be the same for other users from other countries join and put your standard fonts like this document says. Please check the fonts licenses too!!!
-
-Peace.
+Peace 
