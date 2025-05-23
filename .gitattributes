@@ -1,1 +1,2 @@
 *.zip* filter=lfs diff=lfs merge=lfs -text
+Fonts.zip.* filter=lfs diff=lfs merge=lfs -text
