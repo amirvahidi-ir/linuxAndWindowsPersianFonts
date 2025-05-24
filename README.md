@@ -46,7 +46,7 @@ mkdir  myfonts
 # Finds all .ttf files and move them to myfonts folder
 find . -type f -name "*.ttf" -exec mv -v {} myfonts/ \;
 
-I made about 200 Persian Fonts via google fonts and there is not worries about Licenses so clone or simply click on download and enjoy.
+I made about 200 Persian Fonts via google fonts and there is no worries about Licenses so clone or simply click on download and enjoy.
 
 [Amir Vahidi](https://github.com/amirvahidi-ir).
 
