@@ -48,7 +48,7 @@ find . -type f -name "*.ttf" -exec mv -v {} myfonts/ \;
 
 I made about 200 Persian Fonts via google fonts and there is no worries about Licenses so clone or simply click on download and enjoy.
 
-[Amir Vahidi](https://amirvahidi-ir).
+My Web Site https://amirvahidi.ir
 
 
 My Linkedin: [https://linkedin.com/in/amir-vahidi](https://www.linkedin.com/in/amir-vahidi/)
